@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Keep headings with the text that follows, and figures in one piece, when the page is saved as PDF
+@media print {
+  h1, h2, h3 { break-after: avoid; page-break-after: avoid; }
+  img { break-inside: avoid; page-break-inside: avoid; }
+  .page-header { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+}
