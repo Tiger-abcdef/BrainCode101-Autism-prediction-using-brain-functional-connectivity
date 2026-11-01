@@ -241,4 +241,4 @@ The notebooks list every other paper used in the methods.
 
 ## Acknowledgements
 
-This project was done in BrainCode101. I would like to thank my TAs, **Gut Oranatt** and **Bank Nithit**, for their guidance and feedback throughout the 13-week period, as well as the ABIDE consortium and the Preprocessed Connectomes Project for sharing their data.
+This project was done in BrainCode101. I would like to thank my TAs, **Oranatt Chaichanasittikarn** and **Nithit Singtokum**, for their guidance and feedback throughout the 13-week period, as well as the ABIDE consortium and the Preprocessed Connectomes Project for sharing their data.
